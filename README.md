@@ -1,6 +1,3 @@
-
-![English and Spanish, in Vianaic, by u/vilhjalmurengi](imgs/creator/001.jpg "English and Spanish, in Vianaic, by u/vilhjalmurengi")
-
 # Introduction
 
 **Vianaic** is written script. It is pronounced: "*vee-ah-NAY-ick*". It is not a new language. It is a different way of wrtting. It is what we call a **script**. It can be used for English or any languages that use the 26 letters of the Latin alphabet. It is loosely based off of Arabic script and Roman letters.
