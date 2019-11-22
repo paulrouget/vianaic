@@ -84,6 +84,8 @@ The `o` and the `a` letters are "floating" characters. A bit like an apostrophe.
 
 ## From the creator
 
+Reddit links die. So we saved as much prose shared by the creator here.
+
 **Move your mouse over the image for a translation.**
 
 A Vianaic pangram (phrase composed of all the letters in the alphabet) including all combination symbols.  `ch`, `gh`, `ng`, `ph`, `sh`, `th` and `wh`. Meant for practice to aid in memorization of all letters:
@@ -91,9 +93,12 @@ A Vianaic pangram (phrase composed of all the letters in the alphabet) including
 ![](./imgs/creator/pangram.jpg "She photographed a templar knight rousting a quick fox while mounted on a very big witch hazel tree")
 ![](./imgs/creator/nayeli.jpg "Nayeli")
 ![](./imgs/creator/programmer.jpg "Programmer")
-![](./imgs/creator/001.jpg "Too long to translate :)")
 
-More: [1](./imgs/creator/foot_boot.jpg) and [2](./imgs/creator/still_sheet_think_getting.jpg)
+* [K vs. M example](./imgs/creator/km.jpg)
+* [Long prose](./imgs/creator/randomness.jpg)
+* [Long prose 2](./imgs/creator/001.jpg)
+* [Foot and boot](./imgs/creator/foot_boot.jpg)
+* [Still, sheet, think, getting](./imgs/creator/still_sheet_think_getting.jpg)
 
 ## Videos
 
@@ -108,7 +113,6 @@ Good material to practice your reading:
 
 * [u/Pixel8edRevelry](https://www.reddit.com/r/vianaic/comments/crx922/my_very_first_attempt_at_vianaic_i_love_how/)
 * [u/sweetpotatofamily](https://www.reddit.com/r/vianaic/comments/cgo71n/bored_postsurgery_hand_writing_practice_concrit/)
-* [u/vilhjalmurengi](https://www.reddit.com/r/vianaic/comments/c9g3t8/work_notes_and_other_randomness/)
 * [u/roseuhmatoes](https://www.reddit.com/r/vianaic/comments/c8klho/this_is_my_first_time_writing_anything_other_than/)
 * [u/Squirrelgirlfanatic](https://www.reddit.com/r/vianaic/comments/c5bju1/my_attempt_at_v2/)
 * [u/201-](https://www.reddit.com/r/vianaic/comments/buthdz/taking_steps/)
