@@ -1,2 +1,4 @@
-theme: vianaic/minima
 title: Vianaic Script
+theme: jekyll-theme-minimal
+show_downloads: "false"
+logo: ./imgs/creator/001.jpg
