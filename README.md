@@ -67,7 +67,7 @@ Vianaic *flows*. Letters connect to give words this beautiful cursive look. To e
 
 *Final* letters are used at the end of the word.
 
-The word `lentil` would start with a **Initial** `L` and end with a **Final** `L`.
+The word `lentil` would start with a *Initial* `L` and end with a *Final* `L`.
 
 Inside a word, it is up to the writer to use the form that connects the best. Use the form that is easier to move into from the previous symbol. For example, after a `M` it makes sense to use the Final form of letter, after a`J`, to use the Initial form.
 
