@@ -84,20 +84,19 @@ The `o` and the `a` letters are "floating" characters. A bit like an apostrophe.
 
 ### From the creator
 
-#### Video from creator:
-
-[![Video, by u/vilhjalmurengi](imgs/creator/vid.jpg "Video by u/vilhjalmurengi")](https://www.reddit.com/r/vianaic/comments/av5377/quote_about_kindness_its_very_true/)
-
 **Move your mouse over the image for a translation.**
 
 A Vianaic pangram (phrase composed of all the letters in the alphabet) including all combination symbols.  `ch`, `gh`, `ng`, `ph`, `sh`, `th` and `wh`. Meant for practice to aid in memorization of all letters:
 
-![](./imgs/creator/002.jpg "She photographed a templar knight rousting a quick fox while mounted on a very big witch hazel tree")
+![](./imgs/creator/pangram.jpg "She photographed a templar knight rousting a quick fox while mounted on a very big witch hazel tree")
+![](./imgs/creator/nayeli.jpg "Nayeli")
+![](./imgs/creator/programmer.jpg "Programmer")
+![](./imgs/creator/001.jpg "Too long to translate :)")
 
+More: [1](./imgs/creator/foot_boot.jpg) and [2](./imgs/creator/still_sheet_think_getting.jpg)
 
-![](./imgs/creator/003.jpg "Foot and Boot")
+### Videos
 
-![](./imgs/creator/004.jpg "Nayeli")
-
-![](./imgs/creator/005.jpg "Still, sheet, think, getting")
-
+* [From creator](https://www.reddit.com/r/vianaic/comments/av5377/quote_about_kindness_its_very_true/)
+* [Showcasing speed](https://www.reddit.com/r/vianaic/comments/akn4j8/this_is_how_fast_i_can_write/)
+* [Journaling](https://www.reddit.com/r/vianaic/comments/atafvx/journaling_is_more_interesting_this_way/)
