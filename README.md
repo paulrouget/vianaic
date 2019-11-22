@@ -80,7 +80,7 @@ Inside a word, it is up to the writer to use the form that connects the best. Us
 
 The `o` and the `a` letters are "floating" characters. A bit like an apostrophe. And the same way the dot of the "i" letter can be added after the whole word has been written, the `o` and `a` letters can be added after the word is finished. For example, in the word EAT, it's easier to write E then T, and add the "A" in between afterward.
 
-# Examples gallery
+# Gallery
 
 ## From the creator
 
@@ -113,3 +113,5 @@ Good material to practice your reading:
 * [u/Squirrelgirlfanatic](https://www.reddit.com/r/vianaic/comments/c5bju1/my_attempt_at_v2/)
 * [u/201-](https://www.reddit.com/r/vianaic/comments/buthdz/taking_steps/)
 * [u/Garnetit](https://www.reddit.com/r/vianaic/comments/bsda3e/wrote_some_random_nonsense_instead_of_sleeping/)
+
+Website created by [u/ahoko](https://reddit.com/u/ahoko).
