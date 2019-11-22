@@ -1,30 +1,30 @@
 # Introduction
 
-**Vianaic** is written script. It is pronounced: "*vee-ah-NAY-ick*". It is not a new language. It is a different way of wrtting. It is what we call a **script**. It can be used for English or any languages that use the 26 letters of the Latin alphabet. It is loosely based off of Arabic script and Roman letters.
+**Vianaic** is written script. It is pronounced: "*vee-ah-NAY-ick*". It is not a new language. It is a different way of wrtting. It is what we call a script. It can be used for English or any languages that use the 26 letters of the Latin alphabet. It is loosely based off of Arabic script and Roman letters.
 
-People use **Vianaic** for different reasons. Often it is used for journaling, as a way to obfuscate the prose.
+People use Vianaic for different reasons. Often it is used for journaling, as a way to obfuscate the prose.
 
 ## About this website
 
-This is not an "official" website per se. Rules, tips, history, examples and references are scattered over Reddit. This website is an effort to gather as much information as possible into one place, and put into one coherent and comprehensive form.
+This is not an official website per se. Rules, tips, history, examples and references are scattered all over Reddit. This website is an effort to gather as much information as possible into one place, and compile it into one coherent and comprehensive form.
 
 ## Origin
 
-**Vianaic** was created by Reddit user [u/vilhjalmurengi](https://reddit.com/u/vilhjalmurengi), it appeared for the first time in [this thread](https://www.reddit.com/r/Handwriting/comments/7x3hki/i_originally_created_this_script_its_not_a/). As a follow up to that post, the subreddit [/r/vianaic](https://reddit.com/r/vianaic) was created.
+Vianaic was created by Reddit user [u/vilhjalmurengi](https://reddit.com/u/vilhjalmurengi), it was mentioned for the first time in [this reddit thread](https://www.reddit.com/r/Handwriting/comments/7x3hki/i_originally_created_this_script_its_not_a/). As a follow up to that post, the subreddit [/r/vianaic](https://reddit.com/r/vianaic) was created.
 
 [/u/vilhjalmurengi](https://reddit.com/u/vilhjalmurengi):
 
 > I created it about 6 or 7 years ago [~2012]. It is one of many scripts I have learned/created since I was a young boy. This particular one, Vianaic, is the one that I've kept to most strongly probably because of its ease and I just like the way it flows. I didn't have a very good reason for creating it, other than I find it to be a fun hobby/time-killer in between patient appointments at the hospital where I work as an interpreter. It's also a good way to keep things secret that I write down, for whatever reason… sometimes for things like personal journal entries. It's loosely based off of the Arabic script. And that's about it!
 
-The **Vianaic** letters are variations of the equivalent Arabic sounds for the English alphabet. And some are adapted versions of the Latin script (like English). Some are just purely out of the creator's imagination.
+The Vianaic letters are variations of the equivalent Arabic sounds for the English alphabet. And some are adapted versions of the Latin script (like English). Some are just purely out of the creator's imagination.
 
 ## Where to ask questions
 
-It is recommended to ask questions about **Vianaic** on Reddit: [/r/vianaic/](https://reddit.com/r/vianaic). Questions or issues about this website can be filed under [github.com/vianaic/vianaic.github.io/issues](https://github.com/vianaic/vianaic.github.io/issues).
+It is recommended to ask questions about Vianaic on Reddit: [/r/vianaic/](https://reddit.com/r/vianaic). Questions or issues about this website can be filed [here](https://github.com/vianaic/vianaic.github.io/issues).
 
 ## V1 vs. V2
 
-There are 2 versions of **Vianaic**. V1 and V2. This website is about V2 for now, for the sake of simplicity. 
+There are 2 versions of Vianaic. V1 and V2. **This website is about V2 for now, for the sake of simplicity**. 
 
 V1 is the original version and it's the "prettier" of the two, with its long, swooping and low-hanging letters. V2 is the updated Vianaic which removed many of the low-hanging letters and replaced them with letters that stay at or above baseline. The purpose of this was to minimize overlapping if you intend to use Vianaic for journaling or anything which would require multiple horizontal lines of text.
 
@@ -34,15 +34,13 @@ V1 is the original version and it's the "prettier" of the two, with its long, sw
 
 **Important:** You do not have to follow the reference and the rules stricly. Vianaic is easy to adapt to your own style. Because it is often used for personal writing, feel free to adapt the reference or the rules to your liking. If you follow mostly the Vianaic but tweaked the symbols a bit, it is called a **Variant**.
 
-### Letters table
+### Table
 
 ![Vianaic Letters](./refs/letters.jpg "Vianaic Letters")
 
 ![Vianaic Connecting Letters](./refs/connect.jpg "Vianaic Connecting Letters")
 
 *Notes: do not use the bottom line of the Y letter if it's not connecting to anything (at the end of a word).*
-
-### Digits table
 
 ![Vianaic Digits](./refs/digits.jpg "Vianaic Digits")
 
@@ -71,11 +69,11 @@ Vianaic *flows*. Letters connect to give words this beautiful cursive look. To e
 
 The word `lentil` would start with a **Initial** `L` and end with a **Final** `L`.
 
-Inside a word, it is up to the writer to use the form that connects the best. Use the form that is easier to move into from the previous symbol. For example, after a `M` it makes sense to use the **Final** form of letter, after a`J`, to use the Initial form.
+Inside a word, it is up to the writer to use the form that connects the best. Use the form that is easier to move into from the previous symbol. For example, after a `M` it makes sense to use the Final form of letter, after a`J`, to use the Initial form.
 
 ### When to write `o` and `a`
 
-The `o` and the `a` letters are "floating" characters. A bit like an apostrophe. And the same way the dot of the "i" letter can be added after the whole word has been written, the `o` and `a` letters can be added after the word is finished. For example, in the word EAT, it's easier to write E then T, and add the "A" in between afterward.
+The `o` and the `a` letters are floating characters. A bit like an apostrophe. And the same way the dot of the "i" letter can be added after the whole word has been written, the `o` and `a` letters can be added after the word is finished. For example, in the word EAT, it's easier to write E then T, and add the "A" in between afterward.
 
 # Gallery
 
