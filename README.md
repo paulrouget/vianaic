@@ -35,7 +35,7 @@ V1 is the original version and it's the "prettier" of the two, with its long, sw
 
 ## References and rules
 
-***You do not have to follow the reference and the rules stricly. Vianaic is easy to adapt to your own style. Because it is often used for personal writing, feel free to adapt the reference or the rules to your liking.***
+**Important:** You do not have to follow the reference and the rules stricly. Vianaic is easy to adapt to your own style. Because it is often used for personal writing, feel free to adapt the reference or the rules to your liking. If you follow mostly the Vianaic but tweaked the symbols a bit, it is called a **Variant**.
 
 ### Letters table
 
@@ -80,9 +80,9 @@ Inside a word, it is up to the writer to use the form that connects the best. Us
 
 The `o` and the `a` letters are "floating" characters. A bit like an apostrophe. And the same way the dot of the "i" letter can be added after the whole word has been written, the `o` and `a` letters can be added after the word is finished. For example, in the word EAT, it's easier to write E then T, and add the "A" in between afterward.
 
-## Examples gallery
+# Examples gallery
 
-### From the creator
+## From the creator
 
 **Move your mouse over the image for a translation.**
 
@@ -95,8 +95,21 @@ A Vianaic pangram (phrase composed of all the letters in the alphabet) including
 
 More: [1](./imgs/creator/foot_boot.jpg) and [2](./imgs/creator/still_sheet_think_getting.jpg)
 
-### Videos
+## Videos
 
 * [From creator](https://www.reddit.com/r/vianaic/comments/av5377/quote_about_kindness_its_very_true/)
 * [Showcasing speed](https://www.reddit.com/r/vianaic/comments/akn4j8/this_is_how_fast_i_can_write/)
 * [Journaling](https://www.reddit.com/r/vianaic/comments/atafvx/journaling_is_more_interesting_this_way/)
+
+## Featured community posts
+
+These are (mostly) valid, English and non-variant examples shared by the community on Reddit.
+Good material to practice your reading:
+
+* [u/Pixel8edRevelry](https://www.reddit.com/r/vianaic/comments/crx922/my_very_first_attempt_at_vianaic_i_love_how/)
+* [u/sweetpotatofamily](https://www.reddit.com/r/vianaic/comments/cgo71n/bored_postsurgery_hand_writing_practice_concrit/)
+* [u/vilhjalmurengi](https://www.reddit.com/r/vianaic/comments/c9g3t8/work_notes_and_other_randomness/)
+* [u/roseuhmatoes](https://www.reddit.com/r/vianaic/comments/c8klho/this_is_my_first_time_writing_anything_other_than/)
+* [u/Squirrelgirlfanatic](https://www.reddit.com/r/vianaic/comments/c5bju1/my_attempt_at_v2/)
+* [u/201-](https://www.reddit.com/r/vianaic/comments/buthdz/taking_steps/)
+* [u/Garnetit](https://www.reddit.com/r/vianaic/comments/bsda3e/wrote_some_random_nonsense_instead_of_sleeping/)
