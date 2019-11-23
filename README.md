@@ -69,7 +69,7 @@ Inside a word, it is up to the writer to use the form that connects the best. Us
 
 ### When to write `o` and `a`
 
-In regular writing, we often dot the `i` letter after we finished writing the whole word. Similarly, the `o` and the `a` letters, being floating characters, can be added subsequently to not interupt the stroke.
+In regular writing, we often dot the `i` after we finished writing the whole word. Similarly, the `o` and the `a` letters, being floating characters, can be added subsequently to not interupt the stroke.
 
 For example, in the word EAT, it's easier to write E then T in one stroke, and add the "A" in between afterward.
 
