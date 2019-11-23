@@ -2,11 +2,11 @@
 
 **Vianaic** is a written script. It is pronounced: "*vee-ah-NAY-ick*". It is not a new language. It is a different way of writting. It can be used to write English or any of the languages that uses the 26 letters of the Latin alphabet. It is loosely based off of Arabic script and Roman letters. 
 
-People use Vianaic for different reasons. Often it is used for journaling, as a way to obfuscate the prose.
+People use Vianaic for different reasons. Often it is used for journaling as a way to obfuscate the prose.
 
 ## Origin
 
-Vianaic was created by Reddit user [u/vilhjalmurengi](https://reddit.com/u/vilhjalmurengi), it was mentioned for the first time in [this reddit thread](https://www.reddit.com/r/Handwriting/comments/7x3hki/i_originally_created_this_script_its_not_a/). As a follow up to that post, the subreddit [/r/vianaic](https://reddit.com/r/vianaic) was created.
+Vianaic was created by Reddit user [u/vilhjalmurengi](https://reddit.com/u/vilhjalmurengi). It was mentioned for the first time in [this reddit thread](https://www.reddit.com/r/Handwriting/comments/7x3hki/i_originally_created_this_script_its_not_a/). As a follow up to that post, the subreddit [/r/vianaic](https://reddit.com/r/vianaic) was created.
 
 [/u/vilhjalmurengi](https://reddit.com/u/vilhjalmurengi):
 
@@ -14,9 +14,9 @@ Vianaic was created by Reddit user [u/vilhjalmurengi](https://reddit.com/u/vilhj
 
 ## V1 vs. V2
 
-There are 2 versions of Vianaic. V1 and V2. **This website is about V2 for now, for the sake of simplicity**. 
+There are 2 versions of Vianaic: V1 and V2. **For the sake of simplicity: this website is about V2 for now. **.
 
-V1 is the original version and it's the "prettier" of the two, with its long, swooping and low-hanging letters. V2 is the updated Vianaic which removed many of the low-hanging letters and replaced them with letters that stay at or above baseline. The purpose of this was to minimize overlapping if you intend to use Vianaic for journaling or anything which would require multiple horizontal lines of text.
+V1 is the original version and it's the prettier of the two, with its long, swooping and low-hanging letters. V2 is the updated Vianaic which removed many of the low-hanging letters and replaced them with letters that stay at or above baseline. The purpose of this was to minimize overlapping if you intend to use Vianaic for journaling or anything which would require multiple horizontal lines of text.
 
 ## About this website
 
