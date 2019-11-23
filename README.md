@@ -14,9 +14,9 @@ Vianaic was created by Reddit user [u/vilhjalmurengi](https://reddit.com/u/vilhj
 
 ## V1 vs. V2
 
-There are 2 versions of Vianaic: V1 and V2. **For the sake of simplicity: this website is about V2 for now. **.
+There are 2 versions of Vianaic: V1 and V2. **For the sake of simplicity: this website is about V2 for now**.
 
-V1 is the original version and it's the prettier of the two, with its long, swooping and low-hanging letters. V2 is the updated Vianaic which removed many of the low-hanging letters and replaced them with letters that stay at or above baseline. The purpose of this was to minimize overlapping if you intend to use Vianaic for journaling or anything which would require multiple horizontal lines of text.
+V1 is the original version and it's the prettier of the two, with its long, swooping and low-hanging letters. V2 is the updated Vianaic which removed many of the low-hanging letters and replaced them with letters that stay at/or above baseline. The purpose of this was to minimize overlapping if you have intended to use Vianaic for journaling or anything which would require multiple horizontal lines of text.
 
 ## About this website
 
