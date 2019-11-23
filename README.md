@@ -73,9 +73,9 @@ In regular writing, we often do the `i` letter after we finished writing the who
 
 For example, in the word EAT, it's easier to write E then T in one stroke, and add the "A" in between afterward.
 
-# Gallery
+## Gallery
 
-## From the creator
+### From the creator
 
 Reddit images can expire. So we saved as much prose shared by the creator here.
 
@@ -93,13 +93,13 @@ A Vianaic pangram (phrase composed of all the letters in the alphabet) including
 * [Foot and boot](./imgs/creator/foot_boot.jpg)
 * [Still, sheet, think, getting](./imgs/creator/still_sheet_think_getting.jpg)
 
-## Videos
+### Videos
 
 * [From creator](https://www.reddit.com/r/vianaic/comments/av5377/quote_about_kindness_its_very_true/)
 * [Showcasing speed](https://www.reddit.com/r/vianaic/comments/akn4j8/this_is_how_fast_i_can_write/)
 * [Journaling](https://www.reddit.com/r/vianaic/comments/atafvx/journaling_is_more_interesting_this_way/)
 
-## Featured community posts
+### Featured community posts
 
 These are (mostly) valid, English and non-variant examples shared by the community on Reddit.
 Good material to practice your reading:
