@@ -1,6 +1,6 @@
 # Introduction
 
-**Vianaic** is written script. It is pronounced: "*vee-ah-NAY-ick*". It is not a new language. It is a different way of writting. It can be used to write English or any languages that use the 26 letters of the Latin alphabet. It is loosely based off of Arabic script and Roman letters. 
+**Vianaic** is a written script. It is pronounced: "*vee-ah-NAY-ick*". It is not a new language. It is a different way of writting. It can be used to write English or any of the languages that uses the 26 letters of the Latin alphabet. It is loosely based off of Arabic script and Roman letters. 
 
 People use Vianaic for different reasons. Often it is used for journaling, as a way to obfuscate the prose.
 
