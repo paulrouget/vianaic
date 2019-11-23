@@ -52,8 +52,8 @@ It is recommended to ask questions about Vianaic on Reddit: [/r/vianaic/](https:
 2. Some pairs of letters (called *diagraph*, like `ph`, `th`, `ng`, …) have their own character.
 3. The words `The` and `And` have their own character.
 4. A pair of same letters (like in `Eggs` or `Asset`) is combined into one letter followed by a double-tick character.
-5. There is no capital letters.
-6. Punctuation does no change.
+5. There are no capital letters.
+6. Punctuation does not change.
 7. Characters can have 0, 1 or 2 connecting points. Connecting characters according to these points form an uninterupted stoke. Words are made of one or multiple strokes.
 8. Characters can have 2 forms, Initial or Final. Picking the right form makes the word flow better.
 
