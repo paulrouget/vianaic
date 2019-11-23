@@ -69,23 +69,25 @@ Inside a word, it is up to the writer to use the form that connects the best. Us
 
 ### When to write `o` and `a`
 
-In regular writing, we often dot the letter `i` after we finished writing the whole word. Similarly, the `o` and the `a` letters, being floating characters, can be added subsequently to not interupt the stroke.
+In regular writing, we often dot the letter `i` after we finished writing the whole word. Similarly, the `o` and the `a` letters, being floating characters, can be added subsequently to not interrupt the stroke.
 
-For example, in the word EAT, it is easier to write `e` then `t` in one stroke, and add the `a` in between afterward.
+For example, in the word EAT, it is easier to write `e` and `t` in one stroke, then add the `a` in between.
 
 ## How to practice
 
-Practicing writing is pretty straight forward. Pick any text and start writing. Reading is a bit more tricky. There is not much reading material yet.
+Practicing writing is pretty straight forward. Pick any text and start writing.
+
+Reading is a bit more tricky. There is not much reading material yet, and people tend to use their own variant, making sharing prose difficult. We hope [to have a Font](https://github.com/vianaic/vianaic.github.io/issues/1) that will make any online text readable in Vianaic.
+
+In the mean time we put tother some examples below.
 
 ## Gallery
 
 ### From the creator
 
-Reddit images can expire. So we saved as much prose shared by the creator here.
-
 **Move your mouse over the image for a translation.**
 
-A Vianaic pangram (phrase composed of all the letters in the alphabet) including all combination symbols.  `ch`, `gh`, `ng`, `ph`, `sh`, `th` and `wh`. Meant for practice to aid in memorization of all letters:
+A Vianaic pangram (phrase composed of all the letters in the alphabet, including all diagraphs):
 
 ![](./imgs/creator/pangram.jpg "She photographed a templar knight rousting a quick fox while mounted on a very big witch hazel tree")
 ![](./imgs/creator/nayeli.jpg "Nayeli")
@@ -106,7 +108,7 @@ A Vianaic pangram (phrase composed of all the letters in the alphabet) including
 ### Featured community posts
 
 These are (mostly) valid, English and non-variant examples shared by the community on Reddit.
-Good material to practice your reading:
+Here good material to practice your reading:
 
 * [u/Pixel8edRevelry](https://www.reddit.com/r/vianaic/comments/crx922/my_very_first_attempt_at_vianaic_i_love_how/)
 * [u/sweetpotatofamily](https://www.reddit.com/r/vianaic/comments/cgo71n/bored_postsurgery_hand_writing_practice_concrit/)
