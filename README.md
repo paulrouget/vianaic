@@ -108,7 +108,6 @@ A Vianaic pangram (phrase composed of all the letters in the alphabet, including
 ### Featured community posts
 
 These are (mostly) valid, English and non-variant examples shared by the community on Reddit.
-Here good material to practice your reading:
 
 * [u/Pixel8edRevelry](https://www.reddit.com/r/vianaic/comments/crx922/my_very_first_attempt_at_vianaic_i_love_how/)
 * [u/sweetpotatofamily](https://www.reddit.com/r/vianaic/comments/cgo71n/bored_postsurgery_hand_writing_practice_concrit/)
