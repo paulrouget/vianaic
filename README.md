@@ -16,7 +16,7 @@ Vianaic was created by Reddit user [u/vilhjalmurengi](https://reddit.com/u/vilhj
 
 There are 2 versions of Vianaic: V1 and V2. **For the sake of simplicity: this website is about V2 for now**.
 
-V1 is the original version and it's the prettier of the two, with its long, swooping and low-hanging letters. V2 is the updated Vianaic which removed many of the low-hanging letters and replaced them with letters that stay at/or above baseline. The purpose of this was to minimize overlapping if you have intended to use Vianaic for journaling or anything which would require multiple horizontal lines of text.
+V1 is the original version and it is the prettier of the two, with its long, swooping and low-hanging letters. V2 is the updated Vianaic which removed many of the low-hanging letters and replaced them with letters that stay at/or above baseline. The purpose of this was to minimize overlapping if you have intended to use Vianaic for journaling or anything which would require multiple horizontal lines of text.
 
 ## About this website
 
@@ -40,7 +40,7 @@ It is recommended to ask questions about Vianaic on Reddit: [/r/vianaic/](https:
 
 ![Vianaic Letters](./refs/letters.jpg "Vianaic Letters")
 
-*Notes: do not use the bottom line of the Y letter if it's not connecting to anything (at the end of a word).*
+*Notes: do not use the bottom line of the Y letter if it is not connecting to anything (at the end of a word).*
 
 ![Vianaic Connecting Letters](./refs/connect.jpg "Vianaic Connecting Letters")
 
@@ -65,17 +65,17 @@ Vianaic *flows*. Letters connect to give words this beautiful cursive look. To e
 
 The word `lentil` would start with a *Initial* `L` and end with a *Final* `L`.
 
-Inside a word, it is up to the writer to use the form that connects the best. Use the form that is easier to move into from the previous symbol. For example, the letter that follows a `M` should use the Final form. The letter after a `J`, should use the Initial form.
+Inside a word, it is up to the writer to use the form that connects the best. Use the form that is easier to move into from the previous symbol. For example, the letter that follows a `m` should use the Final form. The letter after a `j`, should use the Initial form.
 
 ### When to write `o` and `a`
 
-In regular writing, we often dot the `i` after we finished writing the whole word. Similarly, the `o` and the `a` letters, being floating characters, can be added subsequently to not interupt the stroke.
+In regular writing, we often dot the letter `i` after we finished writing the whole word. Similarly, the `o` and the `a` letters, being floating characters, can be added subsequently to not interupt the stroke.
 
-For example, in the word EAT, it's easier to write E then T in one stroke, and add the "A" in between afterward.
+For example, in the word EAT, it is easier to write `e` then `t` in one stroke, and add the `a` in between afterward.
 
 ## How to practice
 
-Practicing writing is pretty straight forward. Pick any text and start writing. Reading is a bit more tricky. There is not much reading material yet. 
+Practicing writing is pretty straight forward. Pick any text and start writing. Reading is a bit more tricky. There is not much reading material yet.
 
 ## Gallery
 
