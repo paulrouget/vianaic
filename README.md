@@ -42,6 +42,8 @@ It is recommended to ask questions about Vianaic on Reddit: [/r/vianaic/](https:
 
 *Notes: do not use the bottom line of the Y letter if it is not connecting to anything (at the end of a word).*
 
+![Vianaic Extra](./refs/extra.jpg "Vianaic Extra")
+
 ![Vianaic Connecting Letters](./refs/connect.jpg "Vianaic Connecting Letters")
 
 ![Vianaic Digits](./refs/digits.jpg "Vianaic Digits")
