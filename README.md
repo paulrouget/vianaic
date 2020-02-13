@@ -28,7 +28,7 @@ Everyone is welcome to contribute to this document. You only need a [github acco
 
 ## Where to ask questions
 
-It is recommended to ask questions about Vianaic on Reddit: [/r/vianaic/](https://reddit.com/r/vianaic). Questions or issues about this website can be submited [here](https://github.com/vianaic/vianaic.github.io/issues).
+It is recommended to ask questions about Vianaic on Reddit: [/r/vianaic/](https://reddit.com/r/vianaic) or on Discord: [discord.gg/cvK2Jgk](https://discord.gg/cvK2Jgk). Questions or issues about this website can be submited [here](https://github.com/vianaic/vianaic.github.io/issues).
 
 # Learn Vianaic
 
