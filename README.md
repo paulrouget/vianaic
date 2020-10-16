@@ -80,13 +80,14 @@ For example, in the word EAT, it is easier to write `e` and `t` in one stroke, t
 Practicing writing is pretty straight forward. Pick any text and start writing.
 
 
-Reading is a bit more tricky. There is not much reading material yet, and people tend to use their own variant, making sharing prose difficult. [You can use this font](https://github.com/paulrouget/vianaic-font/) that makes any online text readable in Vianaic.
-
-In the mean time we put tother some examples below.
+Reading is a bit more tricky. There is not much reading material yet, and people tend to use their own variant, making sharing prose difficult.
+But you can download and use a font:
 
 ## Font
 
-A font is available here. You can also write your own text here (text is editable!):
+[A font is available here](https://github.com/paulrouget/vianaic-font).
+
+You can also write your own text here (text is editable!):
 
 <p class="vianaic" contenteditable="true">Hello human</p>
 
