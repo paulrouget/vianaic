@@ -79,7 +79,7 @@ For example, in the word EAT, it is easier to write `e` and `t` in one stroke, t
 
 Practicing writing is pretty straight forward. Pick any text and start writing.
 
-Reading is a bit more tricky. There is not much reading material yet, and people tend to use their own variant, making sharing prose difficult. We hope [to have a Font](https://github.com/vianaic/vianaic.github.io/issues/1) that will make any online text readable in Vianaic.
+Reading is a bit more tricky. There is not much reading material yet, and people tend to use their own variant, making sharing prose difficult. [You can use this font](https://github.com/paulrouget/vianaic-font/) that makes any online text readable in Vianaic.
 
 In the mean time we put tother some examples below.
 

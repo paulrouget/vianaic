@@ -4,6 +4,15 @@
 @import "fonts";
 @import "rouge-github";
 
+@font-face {
+  font-family: "vianaic";
+  src: url("./vianaic.otf");
+}
+
+.vianaic {
+  font-family: "vianaic";
+}
+
 body {
   background-color: #fff;
   padding:50px;
