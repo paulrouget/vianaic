@@ -24,7 +24,7 @@ This is not an official website per se. Specifications, tips, history, examples 
 
 ## Contributing
 
-Everyone is welcome to contribute to this document. You only need a [github account](https://github.com). Head to [github.com/vianaic/vianaic.github.io](https://github.com/vianaic/vianaic.github.io) to make or suggest changes.
+Everyone is welcome to contribute to this document. You only need a [github account](https://github.com). Head to [github.com/paulrouget/vianaic.github.io](https://github.com/paulrouget/vianaic.github.io) to make or suggest changes.
 
 ## Where to ask questions
 
