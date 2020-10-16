@@ -89,7 +89,7 @@ But you can download and use a font:
 
 You can also write your own text here (text is editable!):
 
-<p class="vianaic" contenteditable="true">Hello human</p>
+<p class="vianaic" spellcheck="false" contenteditable="true">Hello human</p>
 
 ## Gallery
 
